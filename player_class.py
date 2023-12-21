@@ -1,4 +1,5 @@
-"""Gestiona la funcionalidad de los jugadores, un jugador tiene una mano de cartas y puede robar más"""
+"""Gestiona la funcionalidad de los jugadores,
+un jugador tiene una mano de cartas y puede robar más"""
 import random
 
 class Player:
